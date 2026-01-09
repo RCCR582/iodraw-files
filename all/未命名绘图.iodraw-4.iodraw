@@ -22,7 +22,7 @@
         <mxCell id="4-leUzP4RMWLmm59UQnw-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;LPF 滤波器&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDb335ocdqxxfVWzWlT0-1" value="公共频率字&lt;div&gt;相位字输入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDb335ocdqxxfVWzWlT0-1" value="公共相位累加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-2" value="相位加法器1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-3" value="相位加法器2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UDb335ocdqxxfVWzWlT0-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
