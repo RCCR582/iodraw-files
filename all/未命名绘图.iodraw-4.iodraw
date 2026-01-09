@@ -28,7 +28,7 @@
         <mxCell id="UDb335ocdqxxfVWzWlT0-2" value="相位加法器1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDb335ocdqxxfVWzWlT0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDb335ocdqxxfVWzWlT0-3" value="相位加法器2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
