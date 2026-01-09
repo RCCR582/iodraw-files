@@ -47,8 +47,14 @@
         <mxCell id="UDb335ocdqxxfVWzWlT0-9" value="通道2（增加相位偏移确保两路信号相位相同）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UDb335ocdqxxfVWzWlT0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-10" target="UDb335ocdqxxfVWzWlT0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-10" value="流水线圆形CORDIC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UDb335ocdqxxfVWzWlT0-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-11" target="UDb335ocdqxxfVWzWlT0-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-11" value="流水线圆形CORDIC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
@@ -71,11 +77,14 @@
         <mxCell id="UDb335ocdqxxfVWzWlT0-20" value="LPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UDb335ocdqxxfVWzWlT0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-23" target="UDb335ocdqxxfVWzWlT0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-23" value="象限映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="185" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-24" value="象限映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="290" width="80" height="50" as="geometry" />
+          <mxGeometry x="510" y="285" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
