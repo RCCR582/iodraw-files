@@ -26,7 +26,7 @@
           <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-2" value="相位加法器1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-3" value="相位加法器2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
@@ -34,10 +34,17 @@
         <mxCell id="UDb335ocdqxxfVWzWlT0-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="350" as="sourcePoint" />
-            <mxPoint x="440" y="300" as="targetPoint" />
+            <mxPoint x="310" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="270" y="300" />
+              <mxPoint x="270" y="270" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UDb335ocdqxxfVWzWlT0-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
