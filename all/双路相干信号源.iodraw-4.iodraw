@@ -63,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-14" value="DAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="180" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-16" target="UDb335ocdqxxfVWzWlT0-20">
           <mxGeometry relative="1" as="geometry" />
