@@ -47,9 +47,6 @@
         <mxCell id="UDb335ocdqxxfVWzWlT0-9" value="通道2（增加相位偏移确保两路信号相位相同）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UDb335ocdqxxfVWzWlT0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-10" target="UDb335ocdqxxfVWzWlT0-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-10" value="流水线圆形CORDIC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -63,19 +60,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-14" value="DAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="50" height="60" as="geometry" />
+          <mxGeometry x="620" y="180" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-16" target="UDb335ocdqxxfVWzWlT0-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-16" value="DAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="50" height="60" as="geometry" />
+          <mxGeometry x="620" y="280" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-18" value="LPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="180" width="50" height="60" as="geometry" />
+          <mxGeometry x="720" y="180" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-20" value="LPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="280" width="50" height="60" as="geometry" />
+          <mxGeometry x="720" y="280" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
