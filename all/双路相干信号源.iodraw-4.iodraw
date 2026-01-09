@@ -73,7 +73,7 @@
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDb335ocdqxxfVWzWlT0-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="835" y="210" as="targetPoint" />
+            <mxPoint x="790" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-18" value="LPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,12 +93,6 @@
         </mxCell>
         <mxCell id="UDb335ocdqxxfVWzWlT0-24" value="象限映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="285" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UDb335ocdqxxfVWzWlT0-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="310" as="sourcePoint" />
-            <mxPoint x="865" y="310" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
